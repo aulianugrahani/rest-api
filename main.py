@@ -3,7 +3,7 @@
 from fastapi import FastAPI, HTTPException, Header ## huruf kecil semua nama package, kalau huruf gede kecilnya sesuai berarti class/kelas
 from pydantic import BaseModel
 import pandas as pd
-post
+
 
 # create FastAPI object
 app = FastAPI()
